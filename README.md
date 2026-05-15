@@ -2,27 +2,29 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=750&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Santiago+Torres;Senior+Software+Engineer;Systems+%26+Computing+Engineer" 
-      alt="Typing SVG" 
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=750&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Santiago+Torres;Senior+Software+Engineer;Systems+%26+Computing+Engineer"
+      alt="Typing SVG"
     />
   </a>
 </h1>
 
-<h3 align="center">Senior Software Engineer at EPAM Systems | Systems & Computing Engineer from Colombia 🇨🇴</h3>
+<h3 align="center">
+  Senior Software Engineer at EPAM Systems | Systems & Computing Engineer from Colombia 🇨🇴
+</h3>
 
 <p align="center">
-  Passionate about backend development, RESTful APIs, full-stack applications, clean architecture and scalable software solutions.
+  Backend Development · RESTful APIs · Full-Stack Development · Mobile Development · Clean Architecture · Cloud · DevOps
 </p>
 
 <p align="center">
   <a href="mailto:santiago.ojedatorres@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/andres-santiago-torres-ojeda-aaa360197/" target="_blank">
+  <a href="https://www.linkedin.com/in/andres-santiago-torres-ojeda-aaa360197/">
     <img src="https://img.shields.io/badge/LinkedIn-Andres%20Santiago%20Torres%20Ojeda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Lordeveraxe" target="_blank">
+  <a href="https://github.com/Lordeveraxe">
     <img src="https://img.shields.io/badge/GitHub-Lordeveraxe-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -33,19 +35,11 @@
 
 <p align="center">
   I am a Systems and Computing Engineer from Colombia, currently working as a Senior Software Engineer.
-  I enjoy designing and building backend services, REST APIs, web applications and software solutions focused on quality, maintainability and scalability.
+  I enjoy designing and building backend services, RESTful APIs, full-stack applications and mobile projects focused on quality, maintainability and scalability.
 </p>
 
 <p align="center">
   My main interests include clean architecture, cloud technologies, databases, DevOps practices, software testing and modern development workflows.
-</p>
-
----
-
-<h2 align="center">🚀 What I Work With</h2>
-
-<p align="center">
-  Backend Development · RESTful APIs · Full-Stack Development · Clean Architecture · Databases · Cloud · DevOps · Testing
 </p>
 
 ---
@@ -78,55 +72,78 @@
 
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-  <a href="https://github.com/Lordeveraxe/InscriptionsApi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lordeveraxe&repo=InscriptionsApi&theme=github_dark&hide_border=true" alt="InscriptionsApi" />
-  </a>
-  <a href="https://github.com/Lordeveraxe/FrontInscriptionsApi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lordeveraxe&repo=FrontInscriptionsApi&theme=github_dark&hide_border=true" alt="FrontInscriptionsApi" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Lordeveraxe/sge-back">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lordeveraxe&repo=sge-back&theme=github_dark&hide_border=true" alt="sge-back" />
-  </a>
-  <a href="https://github.com/Lordeveraxe/inteligenceback">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lordeveraxe&repo=inteligenceback&theme=github_dark&hide_border=true" alt="inteligenceback" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Stack</th>
+    <th>Focus</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Lordeveraxe/InscriptionsApi">InscriptionsApi</a></td>
+    <td>C# · .NET</td>
+    <td>Backend API for an inscriptions system</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Lordeveraxe/FrontInscriptionsApi">FrontInscriptionsApi</a></td>
+    <td>TypeScript</td>
+    <td>Frontend for the inscriptions system</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Lordeveraxe/EcommerceAPI">EcommerceAPI</a></td>
+    <td>C# · .NET</td>
+    <td>E-commerce REST API</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Lordeveraxe/TodoListAPI">TodoListAPI</a></td>
+    <td>C# · .NET</td>
+    <td>Task management API</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Lordeveraxe/sge-back">sge-back</a></td>
+    <td>Java</td>
+    <td>Backend application</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Lordeveraxe/student-management">student-management</a></td>
+    <td>TypeScript</td>
+    <td>Student management web application</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Lordeveraxe/WhatsappClone">WhatsappClone</a></td>
+    <td>Kotlin</td>
+    <td>Android mobile development</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Lordeveraxe/TheCatApi">TheCatApi</a></td>
+    <td>Kotlin</td>
+    <td>Android app consuming external APIs</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Lordeveraxe/inteligenceback">inteligenceback</a></td>
+    <td>Python</td>
+    <td>Backend development with Python</td>
+  </tr>
+</table>
 
 ---
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-<div align="center">
-  <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api?username=Lordeveraxe&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" 
-    alt="Santiago's GitHub stats" 
-  />
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/Lordeveraxe?cardType=level-alternate&theme=github-dark&preferLogin=true&show_icons=true"
+      alt="Santiago's Awesome GitHub Stats"
+    />
+  </a>
+</p>
 
-  <img 
-    height="165" 
-    src="https://streak-stats.demolab.com?user=Lordeveraxe&theme=github-dark-blue&hide_border=true&exclude_days=Sun%2CSat" 
-    alt="Santiago's GitHub streak" 
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
-    width="390" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lordeveraxe&langs_count=8&layout=compact&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
-    alt="Top languages" 
-  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repositories-21-1F6FEB?style=for-the-badge&logo=github" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/Main%20Languages-Kotlin%20%7C%20Python%20%7C%20TypeScript%20%7C%20Java%20%7C%20C%23-1F6FEB?style=for-the-badge" alt="Main languages" />
+</p>
 
 ---
 
